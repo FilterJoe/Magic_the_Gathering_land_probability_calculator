@@ -1,6 +1,6 @@
 # Magic_the_Gathering_land_probability_calculator (Joe Golton)
 
-> Just let me see the calculator! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FilterJoe/Magic_the_Gathering_land_probability_calculator/mastermtg_probability_calculator.ipynb)
+> Just let me see the calculator! [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/filterjoe-magic-lity_calculator-kwltf5uy/notebooks/Magic_%20The%20Gathering%20land%20probability%20calculator.ipynb)
 
 
 
