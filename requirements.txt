@@ -1,0 +1,4 @@
+ipywidgets==7.4.2
+sympy==1.4
+IPython==3.2.1
+
