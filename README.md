@@ -1,7 +1,7 @@
 # Magic_the_Gathering_land_probability_calculator (Joe Golton)
 
-> Just let me see it! Web version (binder):
-To be added soon . . .
+> Just let me see it! Web version (binder): [interactive_mtg_probability_calculator](https://mybinder.org/v2/gh/FilterJoe/Magic_the_Gathering_land_probability_calculator/mastermtg_probability_calculator.ipynb)
+
 
 ## Introduction
 
