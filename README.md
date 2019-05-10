@@ -1,6 +1,7 @@
 # Magic_the_Gathering_land_probability_calculator (Joe Golton)
 
-> Run the calculator:    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FilterJoe/Magic_the_Gathering_land_probability_calculator/master?filepath=Magic_the_Gathering_land_probability_calculator.ipynb)
+> Run the calculator:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FilterJoe/Magic_the_Gathering_land_probability_calculator/master?filepath=Magic_the_Gathering_land_probability_calculator.ipynb)
 
 Wait about a minute for it to load, Select "Cell" then "Run All" and then scroll to the bottom to see the interactive probability calculator.
 
